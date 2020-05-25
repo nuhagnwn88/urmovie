@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796079149472",
+    "firebase_url": "https://bwa-mov-37097.firebaseio.com",
+    "project_id": "bwa-mov-37097",
+    "storage_bucket": "bwa-mov-37097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796079149472:android:ece3e187f74ca27c49d4c5",
+        "android_client_info": {
+          "package_name": "com.nuhagnwn.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796079149472-r9e6ti4gnpmsbn10u9jcu7ngaqlrknf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrTxbhepvy9PR40FDKCeVjvoYl6_Xwl0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796079149472-r9e6ti4gnpmsbn10u9jcu7ngaqlrknf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
